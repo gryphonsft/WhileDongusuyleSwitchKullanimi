@@ -1,0 +1,14 @@
+C:\Users\abdbz\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\While döngüsü ile switch kullanımı.exe
+C:\Users\abdbz\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\While döngüsü ile switch kullanımı.deps.json
+C:\Users\abdbz\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\While döngüsü ile switch kullanımı.runtimeconfig.json
+C:\Users\abdbz\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\While döngüsü ile switch kullanımı.dll
+C:\Users\abdbz\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\While döngüsü ile switch kullanımı.pdb
+C:\Users\abdbz\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\While döngüsü ile switch kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdbz\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\While döngüsü ile switch kullanımı.AssemblyInfoInputs.cache
+C:\Users\abdbz\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\While döngüsü ile switch kullanımı.AssemblyInfo.cs
+C:\Users\abdbz\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\While döngüsü ile switch kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\abdbz\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\While döngüsü ile switch kullanımı.dll
+C:\Users\abdbz\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\refint\While döngüsü ile switch kullanımı.dll
+C:\Users\abdbz\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\While döngüsü ile switch kullanımı.pdb
+C:\Users\abdbz\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\While döngüsü ile switch kullanımı.genruntimeconfig.cache
+C:\Users\abdbz\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ref\While döngüsü ile switch kullanımı.dll
